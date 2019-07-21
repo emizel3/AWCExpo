@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "AWC",
+    "slug": "AWC",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "center",
+      "height": 50,
+      "width": 100,
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "AWC Expo App design: includes camera, location, and notifications, for future experimentation",
+    "githubUrl": "https://github.com/emizel3/AWCExpo"
+  }
+}
